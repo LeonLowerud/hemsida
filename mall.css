@@ -1,0 +1,117 @@
+<head> 
+<style>
+
+* {
+  box-sizing: border-box;
+  
+}
+
+
+body 
+{
+	
+	background: lightblue;	
+	height: 1000px;
+	
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #f1f1f1;
+  padding: 10px;
+  text-align: center;
+}
+
+
+ul.topnav {
+  display: flex;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  background-color: #333333;
+}
+
+
+ul.topnav li a {
+  display: block;
+  color: #f1f1f1;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+ul.topnav li a:hover {
+  background-color: #dddddd;
+  color: black;
+}
+
+
+.back1
+{
+	
+	background-image: url('https://t4.ftcdn.net/jpg/14/05/24/91/360_F_1405249105_40jTTDh7Xt2M1VP16K4lC3JS3d35aM54.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: white;
+
+}
+.back2
+{
+	
+		background-image: url('https://www.boras.se/images/18.4cfafd0a18c8ac9090643bf/1703163752120/(2)%20SE_fasad_890.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: white;
+	
+}
+
+.back3
+{
+	
+	background-image: url('https://storage-asset.msi.com/global/picture/news/2023/monitor/monitor-20230814-1.jpg');
+	background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-color: white;
+
+}
+
+.TextBox1 
+{
+	Border: 5px black;
+	Margin: 4px;
+	padding: 1px;
+	text-align: center;
+	
+	
+}
+
+.textbox2 
+{
+	border: 1px;
+	Margin: 2px;
+	padding: 1px;
+	Background-color: gray;
+	width: 400px;
+}
+
+.box 
+{
+	
+	border: 3px;
+	margin: 1px;
+	height: auto;
+	width: auto;
+	padding: 2px;
+	
+}
+
+</style>
+</head>
+<body>
